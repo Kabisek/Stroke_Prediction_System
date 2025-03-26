@@ -1,1 +1,1 @@
-https://stroke-prediction-zk9n2kfsvspbklrhngeaur.streamlit.app/
+https://strokepredictionsystem-vrsfqlytczczjxnrypv4cuu.streamlit.app/
